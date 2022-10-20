@@ -469,6 +469,9 @@ img {
         grid-template-columns: repeat(2, 1fr);
     }
 
-
+.showcase-top a {
+    position: absolute;
+    
+    transform: translate(-9%, -50%);
 
 }
